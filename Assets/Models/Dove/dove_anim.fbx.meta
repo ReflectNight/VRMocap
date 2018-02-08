@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 9153c45a401bdb7449942675ed807437
+timeCreated: 1512510182
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: butt_joint
+    100002: dove1
+    100004: //RootNode
+    100006: dove_root
+    100008: head_joint
+    100010: L_ankle_joint
+    100012: L_back_claw_joint
+    100014: L_back_toe_joint
+    100016: L_clavicle_joint
+    100018: L_elbow_joint
+    100020: L_feather_10_joint
+    100022: L_feather_11_joint
+    100024: L_feather_1_joint
+    100026: L_feather_2_joint
+    100028: L_feather_3_joint
+    100030: L_feather_4_joint
+    100032: L_feather_5_joint
+    100034: L_feather_6_joint
+    100036: L_feather_7_joint
+    100038: L_feather_8_joint
+    100040: L_feather_9_joint
+    100042: L_inner_claw_joint
+    100044: L_inner_toe_joint
+    100046: L_knee_joint
+    100048: L_middle_claw_joint
+    100050: L_middle_toe_joint
+    100052: L_pinkie_claw_joint
+    100054: L_pinkie_toe_joint
+    100056: L_shoulder_joint
+    100058: L_thigh_joint
+    100060: L_wrist_joint
+    100062: lip_down_joint
+    100064: lip_up_joint
+    100066: lips_joint
+    100068: neck_01_joint
+    100070: neck_02_joint
+    100072: pelvis_joint
+    100074: R_ankle_joint
+    100076: R_back_claw_joint
+    100078: R_back_toe_joint
+    100080: R_clavicle_joint
+    100082: R_elbow_joint
+    100084: R_feather_10_joint
+    100086: R_feather_11_joint
+    100088: R_feather_1_joint
+    100090: R_feather_2_joint
+    100092: R_feather_3_joint
+    100094: R_feather_4_joint
+    100096: R_feather_5_joint
+    100098: R_feather_6_joint
+    100100: R_feather_7_joint
+    100102: R_feather_8_joint
+    100104: R_feather_9_joint
+    100106: R_inner_claw_joint
+    100108: R_inner_toe_joint
+    100110: R_knee_joint
+    100112: R_middle_claw_joint
+    100114: R_middle_toe_joint
+    100116: R_pinkie_claw_joint
+    100118: R_pinkie_toe_joint
+    100120: R_shoulder_joint
+    100122: R_thigh_joint
+    100124: R_wrist_joint
+    100126: spline_01_joint
+    100128: spline_02_joint
+    100130: tail_a_1_joint
+    100132: tail_a_2_joint
+    100134: tail_a_3_joint
+    100136: tail_a_4_joint
+    100138: tail_b_1_joint
+    100140: tail_b_2_joint
+    100142: tail_b_3_joint
+    100144: tail_b_4_joint
+    100146: tail_c_1_joint
+    100148: tail_c_2_joint
+    100150: tail_c_3_joint
+    100152: tail_c_4_joint
+    100154: tail_c_5_joint
+    100156: tail_c_6_joint
+    100158: tail_c_7_joint
+    100160: tail_c_8_joint
+    100162: tails_joint
+    400000: butt_joint
+    400002: dove1
+    400004: //RootNode
+    400006: dove_root
+    400008: head_joint
+    400010: L_ankle_joint
+    400012: L_back_claw_joint
+    400014: L_back_toe_joint
+    400016: L_clavicle_joint
+    400018: L_elbow_joint
+    400020: L_feather_10_joint
+    400022: L_feather_11_joint
+    400024: L_feather_1_joint
+    400026: L_feather_2_joint
+    400028: L_feather_3_joint
+    400030: L_feather_4_joint
+    400032: L_feather_5_joint
+    400034: L_feather_6_joint
+    400036: L_feather_7_joint
+    400038: L_feather_8_joint
+    400040: L_feather_9_joint
+    400042: L_inner_claw_joint
+    400044: L_inner_toe_joint
+    400046: L_knee_joint
+    400048: L_middle_claw_joint
+    400050: L_middle_toe_joint
+    400052: L_pinkie_claw_joint
+    400054: L_pinkie_toe_joint
+    400056: L_shoulder_joint
+    400058: L_thigh_joint
+    400060: L_wrist_joint
+    400062: lip_down_joint
+    400064: lip_up_joint
+    400066: lips_joint
+    400068: neck_01_joint
+    400070: neck_02_joint
+    400072: pelvis_joint
+    400074: R_ankle_joint
+    400076: R_back_claw_joint
+    400078: R_back_toe_joint
+    400080: R_clavicle_joint
+    400082: R_elbow_joint
+    400084: R_feather_10_joint
+    400086: R_feather_11_joint
+    400088: R_feather_1_joint
+    400090: R_feather_2_joint
+    400092: R_feather_3_joint
+    400094: R_feather_4_joint
+    400096: R_feather_5_joint
+    400098: R_feather_6_joint
+    400100: R_feather_7_joint
+    400102: R_feather_8_joint
+    400104: R_feather_9_joint
+    400106: R_inner_claw_joint
+    400108: R_inner_toe_joint
+    400110: R_knee_joint
+    400112: R_middle_claw_joint
+    400114: R_middle_toe_joint
+    400116: R_pinkie_claw_joint
+    400118: R_pinkie_toe_joint
+    400120: R_shoulder_joint
+    400122: R_thigh_joint
+    400124: R_wrist_joint
+    400126: spline_01_joint
+    400128: spline_02_joint
+    400130: tail_a_1_joint
+    400132: tail_a_2_joint
+    400134: tail_a_3_joint
+    400136: tail_a_4_joint
+    400138: tail_b_1_joint
+    400140: tail_b_2_joint
+    400142: tail_b_3_joint
+    400144: tail_b_4_joint
+    400146: tail_c_1_joint
+    400148: tail_c_2_joint
+    400150: tail_c_3_joint
+    400152: tail_c_4_joint
+    400154: tail_c_5_joint
+    400156: tail_c_6_joint
+    400158: tail_c_7_joint
+    400160: tail_c_8_joint
+    400162: tails_joint
+    4300000: dove1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: dove1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 364f3a6200d2b4f4285bfd912243c4f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert2
+    second: {fileID: 2100000, guid: 2f70d4cf0966ef547a3f32ad316e74df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert3
+    second: {fileID: 2100000, guid: 6dcba9a510463504b91f76f9ffa51afd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

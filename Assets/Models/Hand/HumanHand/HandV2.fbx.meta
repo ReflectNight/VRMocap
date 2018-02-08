@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 8898d755b4994eb46ae7d1796edbb3a1
+timeCreated: 1495652205
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Clip
+    100002: geo_glove
+    100004: GloveRig
+    100006: GloveRig_MainC
+    100008: GloveRig_SH_lClavicleJ
+    100010: GloveRig_SH_lElbowJ
+    100012: GloveRig_SH_lFinger1J1
+    100014: GloveRig_SH_lFinger1J2
+    100016: GloveRig_SH_lFinger1J3
+    100018: GloveRig_SH_lFinger2J1
+    100020: GloveRig_SH_lFinger2J2
+    100022: GloveRig_SH_lFinger2J3
+    100024: GloveRig_SH_lFinger3J1
+    100026: GloveRig_SH_lFinger3J2
+    100028: GloveRig_SH_lFinger3J3
+    100030: GloveRig_SH_lFinger4J1
+    100032: GloveRig_SH_lFinger4J2
+    100034: GloveRig_SH_lFinger4J3
+    100036: GloveRig_SH_lPalmJ
+    100038: GloveRig_SH_lShoulderJ
+    100040: GloveRig_SH_lThumbJ1
+    100042: GloveRig_SH_lThumbJ2
+    100044: GloveRig_SH_lThumbJ3
+    100046: GloveRig_SH_lWristJ
+    100048: GloveRig_SH_ROOTJ
+    100050: GloveRig_SH_Spine01J
+    100052: GloveRig_SH_SpineTopJ
+    100054: //RootNode
+    100056: polySmoothFace1_1
+    400000: Clip
+    400002: geo_glove
+    400004: GloveRig
+    400006: GloveRig_MainC
+    400008: GloveRig_SH_lClavicleJ
+    400010: GloveRig_SH_lElbowJ
+    400012: GloveRig_SH_lFinger1J1
+    400014: GloveRig_SH_lFinger1J2
+    400016: GloveRig_SH_lFinger1J3
+    400018: GloveRig_SH_lFinger2J1
+    400020: GloveRig_SH_lFinger2J2
+    400022: GloveRig_SH_lFinger2J3
+    400024: GloveRig_SH_lFinger3J1
+    400026: GloveRig_SH_lFinger3J2
+    400028: GloveRig_SH_lFinger3J3
+    400030: GloveRig_SH_lFinger4J1
+    400032: GloveRig_SH_lFinger4J2
+    400034: GloveRig_SH_lFinger4J3
+    400036: GloveRig_SH_lPalmJ
+    400038: GloveRig_SH_lShoulderJ
+    400040: GloveRig_SH_lThumbJ1
+    400042: GloveRig_SH_lThumbJ2
+    400044: GloveRig_SH_lThumbJ3
+    400046: GloveRig_SH_lWristJ
+    400048: GloveRig_SH_ROOTJ
+    400050: GloveRig_SH_Spine01J
+    400052: GloveRig_SH_SpineTopJ
+    400054: //RootNode
+    400056: polySmoothFace1_1
+    4300000: geo_glove
+    4300002: polySmoothFace1_1
+    4300004: Clip
+    7400000: OpenClose
+    7400002: Pointing
+    7400004: Rockon
+    7400006: Close
+    7400008: Open
+    9500000: //RootNode
+    13700000: Clip
+    13700002: geo_glove
+    13700004: polySmoothFace1_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: OpenClose
+      takeName: OpenClose
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo_glove
+        weight: 1
+      - path: geo_glove/Clip
+        weight: 1
+      - path: geo_glove/polySmoothFace1_1
+        weight: 1
+      - path: GloveRig
+        weight: 1
+      - path: GloveRig/GloveRig_MainC
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1/GloveRig_SH_lFinger1J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1/GloveRig_SH_lFinger1J2/GloveRig_SH_lFinger1J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1/GloveRig_SH_lFinger2J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1/GloveRig_SH_lFinger2J2/GloveRig_SH_lFinger2J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1/GloveRig_SH_lFinger3J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1/GloveRig_SH_lFinger3J2/GloveRig_SH_lFinger3J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1/GloveRig_SH_lFinger4J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1/GloveRig_SH_lFinger4J2/GloveRig_SH_lFinger4J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1/GloveRig_SH_lThumbJ2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1/GloveRig_SH_lThumbJ2/GloveRig_SH_lThumbJ3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pointing
+      takeName: Pointing
+      firstFrame: 25
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo_glove
+        weight: 1
+      - path: geo_glove/Clip
+        weight: 1
+      - path: geo_glove/polySmoothFace1_1
+        weight: 1
+      - path: GloveRig
+        weight: 1
+      - path: GloveRig/GloveRig_MainC
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1/GloveRig_SH_lFinger1J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1/GloveRig_SH_lFinger1J2/GloveRig_SH_lFinger1J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1/GloveRig_SH_lFinger2J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1/GloveRig_SH_lFinger2J2/GloveRig_SH_lFinger2J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1/GloveRig_SH_lFinger3J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1/GloveRig_SH_lFinger3J2/GloveRig_SH_lFinger3J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1/GloveRig_SH_lFinger4J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1/GloveRig_SH_lFinger4J2/GloveRig_SH_lFinger4J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1/GloveRig_SH_lThumbJ2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1/GloveRig_SH_lThumbJ2/GloveRig_SH_lThumbJ3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rockon
+      takeName: Rockon
+      firstFrame: 50
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo_glove
+        weight: 1
+      - path: geo_glove/Clip
+        weight: 1
+      - path: geo_glove/polySmoothFace1_1
+        weight: 1
+      - path: GloveRig
+        weight: 1
+      - path: GloveRig/GloveRig_MainC
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1/GloveRig_SH_lFinger1J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger1J1/GloveRig_SH_lFinger1J2/GloveRig_SH_lFinger1J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1/GloveRig_SH_lFinger2J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger2J1/GloveRig_SH_lFinger2J2/GloveRig_SH_lFinger2J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1/GloveRig_SH_lFinger3J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger3J1/GloveRig_SH_lFinger3J2/GloveRig_SH_lFinger3J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1/GloveRig_SH_lFinger4J2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lPalmJ/GloveRig_SH_lFinger4J1/GloveRig_SH_lFinger4J2/GloveRig_SH_lFinger4J3
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1/GloveRig_SH_lThumbJ2
+        weight: 1
+      - path: GloveRig/GloveRig_MainC/GloveRig_SH_ROOTJ/GloveRig_SH_Spine01J/GloveRig_SH_SpineTopJ/GloveRig_SH_lClavicleJ/GloveRig_SH_lShoulderJ/GloveRig_SH_lElbowJ/GloveRig_SH_lWristJ/GloveRig_SH_lThumbJ1/GloveRig_SH_lThumbJ2/GloveRig_SH_lThumbJ3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
